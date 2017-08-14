@@ -1,0 +1,1 @@
+package exceptions;/** * Created by demopoo on 2017/8/4. */public class NoTokenException extends RuntimeException {    public NoTokenException(String message){        super(message);    }}
