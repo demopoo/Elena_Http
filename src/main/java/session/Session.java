@@ -1,0 +1,1 @@
+package session;import java.util.LinkedList;import java.util.List;/** * Created by demopoo on 2017/8/15. */public class Session {    public static List sessionList = new LinkedList();    public static void processWriteRequest(){        synchronized (sessionList){//            sessionList.        }    }}

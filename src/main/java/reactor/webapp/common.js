@@ -1,0 +1,1 @@
+/** * Created by demopoo on 2017/8/14. */var studentName = function (uName,pWord) {    if (uName == "elena" && pWord == "12345678"){        return "welcom my baby,"+uName+".";    }    return "sorry guys , I don't know who you are.......";}
