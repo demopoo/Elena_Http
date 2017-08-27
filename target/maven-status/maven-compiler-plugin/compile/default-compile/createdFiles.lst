@@ -11,9 +11,11 @@ reactor/util/Decode.class
 reactor/session/HttpSession.class
 reactor/evenhandler/ErrorHandler.class
 session/Session.class
+reactor/filechannel/CreateFileChannel.class
 reactor/MainHttpServer.class
 reactor/evenhandler/AcceptedHandler.class
 session/HttpSession.class
+reactor/MainHttpClientPro.class
 reactor/threadpool/ThreadPoolCommen.class
 reactor/evenhandler/handfactory/EvenHandlerAdapter.class
 reactor/receive/HttpRequest.class
