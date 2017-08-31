@@ -22,6 +22,7 @@ reactor/receive/HttpRequest.class
 reactor/main.class
 MainHttpClient$1.class
 reactor/send/HttpResponse.class
+reactor/Person.class
 biz/HttpServerExcuteRead.class
 reactor/evenhandler/CloseHandler.class
 reactor/EvenHandlerFactory.class
