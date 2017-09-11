@@ -1,0 +1,1 @@
+package reactormode.sessions;import reactormode.handle.NIOHandle;/** * Created by demopoo on 2017/9/9. */public interface Session {    NIOHandle getCurNIOHandler();}
